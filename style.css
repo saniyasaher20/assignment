@@ -255,6 +255,10 @@ header button img {
   white-space: nowrap;
 }
 
+#hero .swiper {
+  width: 100%;
+}
+
 #hero .swiper-slide:nth-child(1) {
   background: -webkit-gradient(linear, left top, left bottom, color-stop(-23%, var(--clr-overlay)), color-stop(107%, rgba(0, 0, 0, 0))), url("assets/img/hero-bg-pexels-kateryna-babaieva.png") center/cover no-repeat;
   background: linear-gradient(180deg, var(--clr-overlay) -23%, rgba(0, 0, 0, 0) 107%), url("assets/img/hero-bg-pexels-kateryna-babaieva.png") center/cover no-repeat;

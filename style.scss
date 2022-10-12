@@ -238,6 +238,9 @@ header {
 
     }
 
+    & .swiper {
+        width: 100%;
+    }
 
     & .swiper-slide:nth-child(1) {
         background: linear-gradient(180deg, var(--clr-overlay) -23%, rgba(0, 0, 0, 0) 107%),
