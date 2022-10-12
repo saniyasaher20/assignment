@@ -241,17 +241,17 @@ header {
 
     & .swiper-slide:nth-child(1) {
         background: linear-gradient(180deg, var(--clr-overlay) -23%, rgba(0, 0, 0, 0) 107%),
-            url('/assets/img/hero-bg-pexels-kateryna-babaieva.png') center / cover no-repeat;
+            url('assets/img/hero-bg-pexels-kateryna-babaieva.png') center / cover no-repeat;
     }
 
     & .swiper-slide:nth-child(2) {
         background: linear-gradient(180deg, var(--clr-overlay) -23%, rgba(0, 0, 0, 0) 107%),
-            url('/assets/img/hero-bg-pexels-kateryna-babaieva.png') center / cover no-repeat;
+            url('assets/img/hero-bg-pexels-kateryna-babaieva.png') center / cover no-repeat;
     }
 
     & .swiper-slide:nth-child(3) {
         background: linear-gradient(180deg, var(--clr-overlay) -23%, rgba(0, 0, 0, 0) 107%),
-            url('/assets/img/hero-bg-pexels-kateryna-babaieva.png') center / cover no-repeat;
+            url('assets/img/hero-bg-pexels-kateryna-babaieva.png') center / cover no-repeat;
     }
 }
 
@@ -293,8 +293,8 @@ header {
 #customer1 {
     padding-bottom: 500px;
     background:
-        url('/assets/img/customer-bg-top.png') top right / contain no-repeat,
-        url('/assets/img/customer-bg-bottom.png') bottom left / contain no-repeat,
+        url('assets/img/customer-bg-top.png') top right / contain no-repeat,
+        url('assets/img/customer-bg-bottom.png') bottom left / contain no-repeat,
         linear-gradient(#F7F7F7, #F7F7F7);
 }
 
@@ -317,17 +317,17 @@ header {
 
     & .swiper-slide:nth-child(1) {
         background: linear-gradient(180deg, rgba(0, 0, 0, 0) 70%, #000000 110%),
-            url('/assets/img/customer-carousel1.jpg') center / cover no-repeat;
+            url('assets/img/customer-carousel1.jpg') center / cover no-repeat;
     }
 
     & .swiper-slide:nth-child(2) {
         background: linear-gradient(180deg, rgba(0, 0, 0, 0) 70%, #000000 110%),
-            url('/assets/img/customer-carousel2.jpg') center / cover no-repeat;
+            url('assets/img/customer-carousel2.jpg') center / cover no-repeat;
     }
 
     & .swiper-slide:nth-child(3) {
         background: linear-gradient(180deg, rgba(0, 0, 0, 0) 70%, #000000 110%),
-            url('/assets/img/customer-carousel3.jpg') center / cover no-repeat;
+            url('assets/img/customer-carousel3.jpg') center / cover no-repeat;
     }
 }
 
@@ -335,7 +335,7 @@ header {
 /*                              Customer First Approach  2                           */
 /* -------------------------------------------------------------------------- */
 #customer2 {
-    background: url('/assets/img/chester-alvarez.jpg') center / cover no-repeat;
+    background: url('assets/img/chester-alvarez.jpg') center / cover no-repeat;
     color: #fff;
 
     & .container {
@@ -384,7 +384,7 @@ header {
 
 #contact {
     background: linear-gradient(90deg, #FFF 12%, rgba(255, 255, 255, 0.9) 35%, rgba(238, 238, 238, 0.02) 73%),
-        url('/assets/img/contact-bg.jpg') center / cover no-repeat;
+        url('assets/img/contact-bg.jpg') center / cover no-repeat;
 
     & .container {
         gap: 100px;
