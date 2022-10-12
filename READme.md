@@ -28,3 +28,5 @@ The deadline is 2 days.
 - The font used in the design ('ITC Avant Garde Gothic Std') is a premium font. So I have used a very similar free font from 'googlefonts.com'.
 - The carousel in the section "First choice of procurement partners across global" is centered, instead of left aligned, because I need more clarity about the design of the carousel after user interaction. 
 - I use scss, because it makse styling more readable and maintanable.
+- Google map is embeded with original location
+- Website is responsive as per the provided breakpoints
