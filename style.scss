@@ -63,6 +63,10 @@ button {
     padding: 14px 65px;
     color: white;
     font-weight: 600;
+
+    &:hover {
+        background-color: rgb(174, 15, 29);
+    }
 }
 
 .vr {
@@ -168,6 +172,11 @@ header {
     /* Get in touch button */
     & button {
         border-bottom: 1px solid black;
+
+        &:hover img {
+            transition: transform .7s;
+            transform: translateX(5px);
+        }
 
         & img {
             vertical-align: baseline;

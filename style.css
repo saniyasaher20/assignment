@@ -64,6 +64,10 @@ button {
   font-weight: 600;
 }
 
+.btn--red:hover {
+  background-color: #ae0f1d;
+}
+
 .vr {
   margin: .5% 0;
   border-right: 1px solid #C4C4C4;
@@ -190,6 +194,15 @@ header {
 
 header button {
   border-bottom: 1px solid black;
+}
+
+header button:hover img {
+  -webkit-transition: -webkit-transform .7s;
+  transition: -webkit-transform .7s;
+  transition: transform .7s;
+  transition: transform .7s, -webkit-transform .7s;
+  -webkit-transform: translateX(5px);
+          transform: translateX(5px);
 }
 
 header button img {
