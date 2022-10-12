@@ -1,4 +1,4 @@
-### Instructions
+# Instructions
 
 The code needs to be written for the following resolution:
 
@@ -20,10 +20,10 @@ Note: You may upload the code on GIT OR send us a Zip file OR upload on a free h
 
 The deadline is 2 days.
 
-# Plugins
+## Plugins
 - Swiper
 
-### My Comments
+# My Comments
 - For better speed, webp image format should be used. I can convert images into webp in Photoshop.
 - The font used in the design ('ITC Avant Garde Gothic Std') is a premium font. So I have used a very similar free font from 'googlefonts.com'.
 - The carousel in the section "First choice of procurement partners across global" is centered, instead of left aligned, because I need more clarity about the design of the carousel after user interaction. 
