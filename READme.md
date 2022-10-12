@@ -1,3 +1,5 @@
+### Instructions
+
 The code needs to be written for the following resolution:
 
 1. 1600px X 900px
@@ -17,3 +19,12 @@ Please make sure that you abstain from the following :
 Note: You may upload the code on GIT OR send us a Zip file OR upload on a free hosting server OR upload it on drive.
 
 The deadline is 2 days.
+
+# Plugins
+- Swiper
+
+### My Comments
+- For better speed, webp image format should be used. I can convert images into webp in Photoshop.
+- The font used in the design ('ITC Avant Garde Gothic Std') is a premium font. So I have used a very similar free font from 'googlefonts.com'.
+- The carousel in the section "First choice of procurement partners across global" is centered, instead of left aligned, because I need more clarity about the design of the carousel after user interaction. 
+- I use scss, because it makse styling more readable and maintanable.
